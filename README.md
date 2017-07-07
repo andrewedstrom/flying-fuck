@@ -20,4 +20,4 @@ cd flying-fuck
 cp *.py ~/.config/thefuck/rules
 ```
 
-[examples-link]:   https://raw.githubusercontent.com/andrewedstrom/flying_fuck/master/example.gif
+[examples-link]: https://github.com/andrewedstrom/flying-fuck/raw/master/example.gif
