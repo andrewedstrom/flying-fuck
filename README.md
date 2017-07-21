@@ -15,6 +15,8 @@ Note: *You must already have [thef@#k](https://github.com/nvbn/thefuck) installe
 To install:
 
 ```
+brew install thefuck 
+mkdir -p ~/.config/thefuck/rules
 git clone git@github.com:andrewedstrom/flying-fuck.git 
 cd flying-fuck
 cp *.py ~/.config/thefuck/rules
